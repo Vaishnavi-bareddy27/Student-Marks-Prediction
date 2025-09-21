@@ -13,7 +13,6 @@ Model training and evaluation using Scikit-learn.
 
 Data visualization with Matplotlib & Seaborn.
 
-Performance measured using R² Score and Mean Squared Error (MSE).
 
 🛠️ **Technologies Used**
 
